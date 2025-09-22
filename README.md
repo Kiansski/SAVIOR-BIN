@@ -11,7 +11,7 @@ KY-037 High Sensitivity Sensor. The blueprint of the project is not yet publicly
 available.
 
 *DISCUSSION:*<br>
-What inspired me to make this contraption?. The problem with solid waste is a growing
+What inspired me to make this contraption?. Disposal of solid waste is a growing
 problem for our world. So I invented this effective way of modernizing our way on waste
 disposal. Combining my love for the environment and passion for electronics, I ended up
 with this cost effective innovation of modern smart bins.
