@@ -10,4 +10,4 @@ LCD 16x2, RFID, MQ-135 Gas sensor, Water level sensor, MG-946r Servo motor,
 KY-037 High Sensitivity Sensor. The blueprint of the project is not yet publicly
 available.
 
-*DISCUSSION*
+*DISCUSSION* <br>
