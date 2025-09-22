@@ -1,0 +1,11 @@
+Bug fixes:
+-cooldown bug because of  Prev1 timer not getting reset
+    + Added Prev1 = millis() to reset the cd
+
+-fixed the lidOpen logic and now works consistently 
+
+Additional:
+-added more comments to make the code readable to idiots
+
+What's new?:
+-Wod mechanism (determines if trash is wet or dry)

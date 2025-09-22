@@ -1,0 +1,7 @@
+Major upd:
+
+What it is?:
+- Revamped the code from being 90% ai to 10% (10% = debugging )
+- Clean and more readable code for idiots
+- Removed the newest updates, only Lid mechanism and lcd available
+- technically the 1st prototype so far
